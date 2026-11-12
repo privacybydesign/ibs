@@ -22,3 +22,6 @@ signatures, so a recipient can verify who encrypted a message.
   fix in one does not carry over to the other.
 - `encryption4all/pdf-signature` — signs PDFs with identity-based signatures. It
   reaches this crate through `pg-core`, not as a direct dependency.
+
+The corpus this file used to be is in git history, at the last revision carrying
+it: `git show a5bd441:CLAUDE.md`.
