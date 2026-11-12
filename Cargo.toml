@@ -11,7 +11,7 @@ license = "MIT OR Apache-2.0"
 repository = "https://github.com/privacybydesign/ibs"
 
 [dependencies]
-curve25519-dalek = { version = "=5.0.0-rc.1", features = [
+curve25519-dalek = { version = "=5.0.0", features = [
   "alloc",
   "precomputed-tables",
   "digest",
